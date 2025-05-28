@@ -52,10 +52,6 @@ dom-array-methods/
 └── README.md            # Project documentation
 ```
 
-## License
-
-This project is open-source and available under the MIT License.
-
 ## Acknowledgements
 
 - Inspired by modern JavaScript tutorials to help developers understand array methods interactively.
